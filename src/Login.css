@@ -1,0 +1,60 @@
+.background {
+    background-color: white;
+    width: 26%;
+    height: 60%;
+    align-items: center;
+    display: block;
+    margin: auto;
+    align-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    position: relative;
+    margin-top: 10%;
+}
+
+
+
+.title {
+    color: black;
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.input-heading {
+    color: black;
+    display: block;
+    padding-left: 10%;
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.input-field {
+    text-align: left;
+    width: 78%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+}
+
+.login-button {
+    color: white;
+    background-color: #67CD31;
+    border: none;
+    border-radius: 4px;
+    width: 80%;
+    height: 10%;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.register {
+    display: block;
+    padding-top: 5px;
+    font-weight: bold;
+    color: #009AD9;
+}

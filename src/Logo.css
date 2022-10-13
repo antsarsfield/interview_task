@@ -1,0 +1,14 @@
+.logo {
+    align-items: center;
+
+    background-repeat: no-repeat;
+    display: block;
+    width: 210px;
+    height: 40px;
+    margin: auto;
+    padding-top: 7%;
+}
+
+.main {
+    height: 40px;
+}

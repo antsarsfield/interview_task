@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  width: 1280px;
+  height: 609px;
+}

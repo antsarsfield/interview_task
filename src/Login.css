@@ -58,3 +58,44 @@
     font-weight: bold;
     color: #009AD9;
 }
+
+@media screen and (max-width: 829px) {
+    .background {
+        width: 60vw;
+    }
+}
+
+@media screen and (max-height: 540px) {
+    .background {
+        height: 60vh;
+    }
+
+    .input-field {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+}
+
+@media screen and (max-height: 490px) {
+    .title {
+        font-size: medium;
+    }
+
+    .input-heading {
+        font-size: small;
+    }
+
+
+}
+
+@media screen and (max-height: 400px) {
+    .title {
+        font-size: small;
+    }
+
+    .input-heading {
+        font-size: x-small;
+    }
+
+
+}

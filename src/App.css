@@ -4,6 +4,24 @@
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
-  width: 1280px;
+  /*width: 1280px;
   height: 609px;
+  */
+  width: 100vw;
+  height: 100vh;
 }
+
+/*.background {
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  display: inline;
+}*/
+
+/* @media screen and (max-width: 769px) {
+
+  .App {
+    width: 769px;
+    height: 100%;
+  }
+}*/
